@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45b07ec272654bf4da727cc6209eb9f7, type: 3}
+  m_Name: so_magnet
+  m_EditorClassIdentifier: 
+  objectName: Magnet
+  objectNID: magnet
+  labObjectType: 5
+  length: 0.19999999
+  width: 1.1424538
+  height: 0.9703397
+  density: 500
+  scaleFactor: {x: 0.005, y: 0.005, z: 0.005}
+  mass: 1958025.8
+  volume: 3916.0515
+  selfMagnetism: 0
+  towardsMagnetAttraction: 1
+  elasticity: 0
+  bounciness: 0
+  friction: 0.5
+  icon: {fileID: 21300000, guid: ff9ce362c9590844abb7ac58cb7e96b0, type: 3}
+  volumeMesh: {fileID: 5036211334292771574, guid: 10b440570809f4a40a1764c941b9ff91,
+    type: 3}
+  spawnPrefab: {fileID: 7184538005486129364, guid: 28164ebdeb0dee648bb913ec04a5c06e,
+    type: 3}

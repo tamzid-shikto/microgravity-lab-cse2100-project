@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45b07ec272654bf4da727cc6209eb9f7, type: 3}
+  m_Name: so_air_force_field_2x2
+  m_EditorClassIdentifier: 
+  objectName: Air Force Field 2x2
+  objectNID: air_force_field_2x2
+  labObjectType: 5
+  length: 2
+  width: 2
+  height: 0.2
+  density: 100000
+  scaleFactor: {x: 2, y: 0.2, z: 2}
+  mass: 199999.97
+  volume: 1.9999998
+  selfMagnetism: 0
+  towardsMagnetAttraction: 0
+  elasticity: 0
+  bounciness: 0
+  friction: 0
+  icon: {fileID: 21300000, guid: 5c58cec1740ac864fab5361192780c11, type: 3}
+  volumeMesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  spawnPrefab: {fileID: 1835193080514645288, guid: d92c5fc220d92be46a68fd151a72fcb0,
+    type: 3}

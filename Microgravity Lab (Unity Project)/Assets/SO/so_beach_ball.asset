@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45b07ec272654bf4da727cc6209eb9f7, type: 3}
+  m_Name: so_beach_ball
+  m_EditorClassIdentifier: 
+  objectName: Beach ball
+  objectNID: beach_ball
+  labObjectType: 2
+  length: 0.5002592
+  width: 0.5015926
+  height: 0.5046756
+  density: 0.25
+  scaleFactor: {x: 1, y: 1, z: 1}
+  mass: 0.031870253
+  volume: 0.12748101
+  selfMagnetism: 0
+  towardsMagnetAttraction: 0
+  elasticity: 0
+  bounciness: 0.9
+  friction: 0.15
+  icon: {fileID: 21300000, guid: 92e152780bcde074ebd9b82bac19b7db, type: 3}
+  volumeMesh: {fileID: 5301216347702283001, guid: 4dee8eec1d42b7d49b3e003a14ad29a2,
+    type: 3}
+  spawnPrefab: {fileID: 7184538005486129364, guid: bd81d60917f9546458ec0f0a0e3971a3,
+    type: 3}

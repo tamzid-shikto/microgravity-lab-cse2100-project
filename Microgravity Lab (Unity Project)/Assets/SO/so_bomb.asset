@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45b07ec272654bf4da727cc6209eb9f7, type: 3}
+  m_Name: so_bomb
+  m_EditorClassIdentifier: 
+  objectName: Bomb
+  objectNID: bomb
+  labObjectType: 4
+  length: 1.6393942
+  width: 1.6386297
+  height: 1.1999987
+  density: 500
+  scaleFactor: {x: 1, y: 1, z: 1}
+  mass: 457.38693
+  volume: 0.9147739
+  selfMagnetism: 0
+  towardsMagnetAttraction: 1
+  elasticity: 0
+  bounciness: 0
+  friction: 0.5
+  icon: {fileID: 21300000, guid: 33cc5895f17ac4d4ab791016f333c91e, type: 3}
+  volumeMesh: {fileID: 444583497488435401, guid: c81d82c90d765934e919a5db90e1641d,
+    type: 3}
+  spawnPrefab: {fileID: 7184538005486129364, guid: ab7db21490e5b59408dd279aa8b86aa7,
+    type: 3}

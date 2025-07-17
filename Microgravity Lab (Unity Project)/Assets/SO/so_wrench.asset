@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45b07ec272654bf4da727cc6209eb9f7, type: 3}
+  m_Name: so_wrench
+  m_EditorClassIdentifier: 
+  objectName: Wrench
+  objectNID: wrench
+  labObjectType: 4
+  length: 0.06529
+  width: 0.359687
+  height: 0.010529
+  density: 500
+  scaleFactor: {x: 1, y: 1, z: 1}
+  mass: 0.033107486
+  volume: 0.00006621497
+  selfMagnetism: 0
+  towardsMagnetAttraction: 1
+  elasticity: 0
+  bounciness: 0
+  friction: 0.5
+  icon: {fileID: 21300000, guid: 92874de9b57bf974db6d2688fe62b873, type: 3}
+  volumeMesh: {fileID: -8644089903525612124, guid: 9fcdd6569456db345bb9fb4fc28f5cdc,
+    type: 3}
+  spawnPrefab: {fileID: 7184538005486129364, guid: 8772917779b42b14ba047f74636c7673,
+    type: 3}

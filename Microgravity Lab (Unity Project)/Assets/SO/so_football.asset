@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45b07ec272654bf4da727cc6209eb9f7, type: 3}
+  m_Name: so_football
+  m_EditorClassIdentifier: 
+  objectName: Football
+  objectNID: football
+  labObjectType: 2
+  length: 0.366384
+  width: 0.3663655
+  height: 0.366403
+  density: 10
+  scaleFactor: {x: 0.25, y: 0.25, z: 0.25}
+  mass: 4.1097865
+  volume: 0.41097865
+  selfMagnetism: 0
+  towardsMagnetAttraction: 0
+  elasticity: 0
+  bounciness: 0.8
+  friction: 1
+  icon: {fileID: 21300000, guid: c2fdffc59d401764bbc0d46396309219, type: 3}
+  volumeMesh: {fileID: 4474733055453474751, guid: 0ceb3c301cd27e74da0f04c80762a618,
+    type: 3}
+  spawnPrefab: {fileID: 7184538005486129364, guid: 579f02efea1daa1499360fc77a4de6d6,
+    type: 3}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45b07ec272654bf4da727cc6209eb9f7, type: 3}
+  m_Name: so_iron_block
+  m_EditorClassIdentifier: 
+  objectName: Iron block
+  objectNID: iron_block
+  labObjectType: 4
+  length: 1.0464599
+  width: 1.0464602
+  height: 1.0464599
+  density: 500
+  scaleFactor: {x: 0.5, y: 0.5, z: 0.5}
+  mass: 1880.0187
+  volume: 3.7600374
+  selfMagnetism: 0
+  towardsMagnetAttraction: 1
+  elasticity: 0
+  bounciness: 0
+  friction: 0.5
+  icon: {fileID: 21300000, guid: 387a3085f1ea1024083727a8ca1ed439, type: 3}
+  volumeMesh: {fileID: 5529656893409120720, guid: 180dab68108922d48a9ae0b8cb1844e1,
+    type: 3}
+  spawnPrefab: {fileID: 7184538005486129364, guid: 328570b0482f7d145baeefdc5ba0cd40,
+    type: 3}
